@@ -1,5 +1,10 @@
 # Shaolin, 1355
 
+<img style="float:left;max-width:300px;padding:10px;" 
+    src="/images/yttlj/jinghui-at-shaolin-1.jpg" 
+    alt="Jinghui" 
+    title="Cerita Jinghui mengenai Zhou Zhiruo dan Song Qingshu" />
+
 ## Song Furen Yang Sebenarnya
 
 Malam itu para pendekar berpesta dan minum-minum sampai fajar. Mereka baru beristirahat ketika sungguh-sungguh mabuk dan tidak sanggup minum maupun makan lagi. Menjelang tengah hari, mereka satu persatu berpamitan kepada Kongwen dan Kongzhi Dashi untuk meninggalkan Biara Shaolin. Zhang Wuji melihat para murid Emei Pai seperti domba yang kehilangan gembalanya, hatinya tersayat. Ia juga melihat betapa Song Qingshu terbaring tak berdaya di atas tandu, tidak jelas apakah ia sudah mati atau masih hidup. Karena itu ia mendekati mereka dan bertanya kepada Jing Hui, "Ijinkan aku memeriksa luka Song Dage."
