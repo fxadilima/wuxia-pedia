@@ -35,3 +35,9 @@ Beberapa hal terkait sejarah yang sangat disederhanakan adalah:
 - Peng Yingyu yang adalah tokoh sejarah seharusnya sudah mennggal beberapa tahun dalam peristiwa
   ini. Kita perkirakan terjadi antara tahun 1354-1355, tetapi di sini dikatakan dia masih aktif.
 
+# Catatan
+
+Banyak file `.md` perlu diedit, karena bisa jadi disalin langsung dari `.docx`, nantinya akan dirapikan.
+Beberapa istilah bahasa Mandarin juga harus diberi keterangan, supaya kita jelas mengenai apa maknanya dalam bahasa
+Indonesia yang kita pakai sehari-hari.
+
