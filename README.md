@@ -1,2 +1,5 @@
-# wuxia-pedia
-Inspired by some simple CSS
+# Wuxiapedia
+
+Create a public place to rewrite or get informations about Wuxia stories.
+
+
