@@ -6,11 +6,9 @@ Ketika kembali ke perkemahan, mereka segera disambut oleh Zhang Zhong dan Fan Ya
 
 "Bukankah Guo Zixing ini sahabat baik Peng Dashi? Sudah pasti kita akan datang," jawab Zhang Wuji.
 
-Fan Yao tersenyum, lalu berkata lagi, "Bukan hanya teman baik Peng Yingyu, dia juga   
-adalah ayah mertua Zhu Yuanzhang. Dan saat ini Zhu Yuanzhang sedang menunggu kelahiran anak pertamanya."
+Fan Yao tersenyum, lalu berkata lagi, "Bukan hanya teman baik Peng Yingyu, dia juga adalah ayah mertua Zhu Yuanzhang. Dan saat ini Zhu Yuanzhang sedang menunggu kelahiran anak pertamanya."
 
-Zhang Wuji terkejut, dan sekaligus gembira. Ia tertawa sambil berkata, "Luar biasa sekali\!   
-Jadi Zhu Dage adalah menantu Guo Zixing? Kapan dia menikah?"
+Zhang Wuji terkejut, dan sekaligus gembira. Ia tertawa sambil berkata, "Luar biasa sekali! Jadi Zhu Dage adalah menantu Guo Zixing? Kapan dia menikah?"
 
 "Guo Zixing punya seorang putri angkat yang bernama Ma Xiuying, dialah yang menikah dengan Zhu Yuanzhang," jawab Fan Yao.
 
