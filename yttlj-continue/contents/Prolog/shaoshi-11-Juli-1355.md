@@ -25,8 +25,7 @@ Zhu Yuanzhang. Memang masalah kepemimpinan ini harus diputuskan langsung oleh Ha
 
 "Bukankah...?" tanya Zhang Wuji, tapi kemudian ia segera menyadari apa masalahnya. 
 
-Dengan mengajak Zhang Wuji untuk menghadiri upacara pemakaman Guo Zixing, Fan Yao dengan halus ingin mengatakan bahwa di dalam keluarga itu sedang ada konflik internal, dan berharap supaya Zhang Wuji mau membantu menyelesaikannya. Zhao Min sejak awal sudah menebak adanya masalah tersebut.  
-Tampaknya Zhang Wuji teringat akan sesuatu. Ia mendekati Zhang Zhong sambil bertanya dengan nada yang agak misterius, “Zhang Daozhang, kau punya kabar lain untukku?”
+Dengan mengajak Zhang Wuji untuk menghadiri upacara pemakaman Guo Zixing, Fan Yao dengan halus ingin mengatakan bahwa di dalam keluarga itu sedang ada konflik internal, dan berharap supaya Zhang Wuji mau membantu menyelesaikannya. Zhao Min sejak awal sudah menebak adanya masalah tersebut. Tampaknya Zhang Wuji teringat akan sesuatu. Ia mendekati Zhang Zhong sambil bertanya dengan nada yang agak misterius, “Zhang Daozhang, kau punya kabar lain untukku?”
 
 Tanpa menunggu jawaban Zhang Zhong, ia buru-buru menarik lengan jubah pendeta Tao itu untuk menjauh beberapa langkah, dan yang lain hanya melihat mereka sedang berbisik-bisik tanpa mampu mendengar apa yang sedang mereka bicarakan
 
@@ -52,8 +51,7 @@ Tampaknya Zhang Wuji agak kecewa mendengar hal itu, tapi kemudian ia kembali ter
 
 Hari itu juga Fan Yao, Shuobude, Zhang Wuji dan Zhao Min berangkat ke Chuzhou. Di sepanjang jalan Fan Yao dan Shuobude menceritakan bahwa Guo Tianxu dan Guo Tianyou sejak awal memang bermusuhan dengan Zhu Yuanzhang, dan selalu ingin membunuhnya. Mereka kuatir kekuatan militer Zhu Yuanzhang akan lebih kuat ketimbang kekuatan mereka, lalu berbalik melawan mereka. Sebelum ini Guo Zixing berhasil menguasai Haozhou, tetapi karena ia terus menerus bertentangan dengan Sun Deya, akhirnya ia terpaksa meninggalkan Haozhou dan pindah ke Chuzhou, yang berhasil dikuasai oleh Zhu Yuanzhang.
 
-Guo Zixing memang sebelumnya menyelamatkan nyawa Zhu Yuanzhang, sebelum akhirnya Zhu Yuanzhang bergabung dengan Hongjin Qiyi. Saat itu Zhu Yuanzhang yang   
-berpakaian biksu tampak sangat mencurigakan bagi para pengawal kota di Haozhou, tetapi di mata Guo Zixing penampilannya justru sangat mengesankan. Ia mengatakan kepada para pengawal yang saat itu menangkap Zhu Yuanzhang, supaya segera membebaskan ikatannya, dan membiarkan ia bergabung dengan para pejuang Hongjin Qiyi yang dipimpinnya. Saat itu semangat juang Zhu Yuanzhang sangat mengesankan di mata Guo Zixing, dan ia kemudian menikahkan putri angkatnya, Ma Xiuying, dengan Zhu Yuanzhang.
+Guo Zixing memang sebelumnya menyelamatkan nyawa Zhu Yuanzhang, sebelum akhirnya Zhu Yuanzhang bergabung dengan Hongjin Qiyi. Saat itu Zhu Yuanzhang yang berpakaian biksu tampak sangat mencurigakan bagi para pengawal kota di Haozhou, tetapi di mata Guo Zixing penampilannya justru sangat mengesankan. Ia mengatakan kepada para pengawal yang saat itu menangkap Zhu Yuanzhang, supaya segera membebaskan ikatannya, dan membiarkan ia bergabung dengan para pejuang Hongjin Qiyi yang dipimpinnya. Saat itu semangat juang Zhu Yuanzhang sangat mengesankan di mata Guo Zixing, dan ia kemudian menikahkan putri angkatnya, Ma Xiuying, dengan Zhu Yuanzhang.
 
 "Berarti saat itu Zhu Dage tidak lagi menjadi biksu?" tanya Zhang Wuji.
 
@@ -73,20 +71,17 @@ Ketika tiba di Chuzhou, ternyata mereka melihat ada tiga peti jenazah di ruang b
 
 Zhao Min berbisik kepada ketiga orang lainnya, "Kedatangan kita terlambat."
 
-Mereka berempat tidak terlalu banyak bicara dengan Zhu Yuanzhang dan keluarganya, mengingat suasana berkabung, dan pada saat itu jumlah pengunjung sangat banyak.   
-Keluarga Guo Zixing sangat dihormati di situ. Setelah memberikan penghormatan terakhir kepada tiga orang yang meninggal di depan peti jenazah, mereka segera beranjak dari rumah itu, menuju ke sebuah kedai untuk beristirahat sejenak.
+Mereka berempat tidak terlalu banyak bicara dengan Zhu Yuanzhang dan keluarganya, mengingat suasana berkabung, dan pada saat itu jumlah pengunjung sangat banyak. Keluarga Guo Zixing sangat dihormati di situ. Setelah memberikan penghormatan terakhir kepada tiga orang yang meninggal di depan peti jenazah, mereka segera beranjak dari rumah itu, menuju ke sebuah kedai untuk beristirahat sejenak.
 
 "Chen Yexian ini sekarang di mana?" tanya Zhang Wuji sementara mereka berjalan keluar.
 
-Shou Bude menggeleng-gelengkan kepalanya sambil menghela nafas. "Dia sudah tewas," katanya. "Tidak diketahui siapa yang membunuhnya. Mayatnya ditemukan di semak-semak,   
-di luar Haozhou. Tadi ada tamu yang menceritakannya."
+Shou Bude menggeleng-gelengkan kepalanya sambil menghela nafas. "Dia sudah tewas," katanya. "Tidak diketahui siapa yang membunuhnya. Mayatnya ditemukan di semak-semak, di luar Haozhou. Tadi ada tamu yang menceritakannya."
 
 Zhang Wuji yang sekilas melirik ke arah Zhao Min melihat bahwa kedua ujung bibir gadis itu seperti tersenyum, tetapi ternyata ia tidak sedang tersenyum. Ia segera bertanya, "Tadinya Chen Yexian ini ada di bawah komando siapa?"
 
 "Soal ini, masa perlu ditanyakan lagi?" kata Zhao Min sambil melangkah masuk ke kedai, tanpa bermaksud menjelaskan kalimat itu.
 
-Kedai itu cukup ramai. Karena malam sebelumnya Zhao Min dan Zhang Wuji kurang tidur, sekarang mereka merasa cukup lelah. Mereka memesan makanan cukup banyak untuk mengatasi kelelahan. Melihat kedua anak muda itu makan dengan lahapnya, Fan Yao dan Shou Bude tertawa. Fan Yao memperhatikan bahwa dalam beberapa tahun terakhir ini Zhao Min telah tumbuh lebih tinggi, dan terlihat lebih atletis. Saat ini ia belum genap empat belas tahun. Usianya terpaut agak jauh jika dibandingkan dengan Zhang Wuji dan Zhou Zhiruo. Tetapi karena ia terbiasa memimpin banyak orang di usia yang sangat muda, perbedaan usia ini seringkali tersamar, ditambah lagi postur tubuhnya yang jangkung itu ikut memberi kesan bahwa ia lebih dewasa ketimbang usia sebenarnya. Hanya jika orang mengamati dari jarak   
-sangat dekat, meraka akan menyadari bahwa Zhao Min sebenarnya masih kecil.
+Kedai itu cukup ramai. Karena malam sebelumnya Zhao Min dan Zhang Wuji kurang tidur, sekarang mereka merasa cukup lelah. Mereka memesan makanan cukup banyak untuk mengatasi kelelahan. Melihat kedua anak muda itu makan dengan lahapnya, Fan Yao dan Shou Bude tertawa. Fan Yao memperhatikan bahwa dalam beberapa tahun terakhir ini Zhao Min telah tumbuh lebih tinggi, dan terlihat lebih atletis. Saat ini ia belum genap empat belas tahun. Usianya terpaut agak jauh jika dibandingkan dengan Zhang Wuji dan Zhou Zhiruo. Tetapi karena ia terbiasa memimpin banyak orang di usia yang sangat muda, perbedaan usia ini seringkali tersamar, ditambah lagi postur tubuhnya yang jangkung itu ikut memberi kesan bahwa ia lebih dewasa ketimbang usia sebenarnya. Hanya jika orang mengamati dari jarak sangat dekat, meraka akan menyadari bahwa Zhao Min sebenarnya masih kecil.
 
 Di dekat meja mereka, ada beberapa orang yang kelihatannya juga baru pulang dari rumah kediaman keluarga Guo Zixing. Mereka semuanya anak-anak muda yang baru bergabung dengan pasukan Guo Zixing. Karena obrolan mereka cukup keras, Zhang Wuji dan yang lain bisa mendengarnya dengan jelas.
 
@@ -132,11 +127,9 @@ Saat itu tiba-tiba Zhou Zhiruo muncul di kedai dan langsung menuju ke meja merek
 
 "Zhou Guniang\!" sapa Fan Yao dan Shou Bude, agak terkejut melihat kemunculannya.
 
-"Barusan aku melihat Zhu Yuanzhang memanggil Xu Da dan Chang Yuchun untuk bicara secara pribadi. Kurasa dia sudah membaca rencana kalian, jadi lebih baik kalian bertindak   
-cepat," lanjut Zhou Zhiruo. "Aku juga sudah mengutus beberapa murid laki-laki Emei untuk pergi ke Pulau Bunga Persik mengambil Yitian Jian dan Tulong Dao yang rusak, mungkin kalian ingin menyimpannya. Bagaimana pun juga, kedua senjata itu adalah simbol yang sangat dihormati di dunia persilatan. Kuharap sumbangan kecil ini bisa membantu perjuangan Ming Jiao."
+"Barusan aku melihat Zhu Yuanzhang memanggil Xu Da dan Chang Yuchun untuk bicara secara pribadi. Kurasa dia sudah membaca rencana kalian, jadi lebih baik kalian bertindak cepat," lanjut Zhou Zhiruo. "Aku juga sudah mengutus beberapa murid laki-laki Emei untuk pergi ke Pulau Bunga Persik mengambil Yitian Jian dan Tulong Dao yang rusak, mungkin kalian ingin menyimpannya. Bagaimana pun juga, kedua senjata itu adalah simbol yang sangat dihormati di dunia persilatan. Kuharap sumbangan kecil ini bisa membantu perjuangan Ming Jiao."
 
-Zhang Wuji melihat bahwa Zhou Zhiruo masih menyimpan rasa bersalah karena apa yang dilakukannya di Pulau Ular. Tanpa sadar ia meraih tangan Zhou Zhiruo untuk menenangkannya.   
-Tetapi Zhou Zhiruo segera menarik tangannya dengan muka memerah. 
+Zhang Wuji melihat bahwa Zhou Zhiruo masih menyimpan rasa bersalah karena apa yang dilakukannya di Pulau Ular. Tanpa sadar ia meraih tangan Zhou Zhiruo untuk menenangkannya. Tetapi Zhou Zhiruo segera menarik tangannya dengan muka memerah. 
 
 "Sebenarnya kau tidak perlu berbuat begitu," kata Zhang Wuji. "Tapi karena kau sudah terlanjur mengutus orang, kami akan berusaha untuk memperbaiki kedua senjata itu. Kurasa Wu Jingcao bisa melakukannya, dia seorang pandai besi yang hebat. Setelah itu kau bisa menyimpan Yitian Jian di Emei, dan kami akan menyimpan Tulong Dao."
 
@@ -152,28 +145,17 @@ Zhao Min melirik Zhang Wuji dengan pandangan seolah-olah sedang mengatakan, "Cob
 
 "Betul," kata Zhang Wuji. "Ayo kita pergi\!"
 
-Ketika mereka tiba di tempat kediaman Guo Zixing, Zhu Yuanzhang sudah kembali melayani para pelayat di depan peti jenazah, dan mereka tidak melihat kehadiran Xu Da   
-dan Chang Yuchun. Ma Xiuying, istri Zhu Yuanzhang, yang sedang hamil tua tampak sibuk melayani tamu di samping suaminya. Karena masih banyak orang berdatangan untuk   
-memberikan penghormatan terakhir bagi Guo Zixing, mereka tidak ingin mengganggu, dan hanya duduk bersama para tamu lain sambil menikmati hidangan yang disediakan.
+Ketika mereka tiba di tempat kediaman Guo Zixing, Zhu Yuanzhang sudah kembali melayani para pelayat di depan peti jenazah, dan mereka tidak melihat kehadiran Xu Da dan Chang Yuchun. Ma Xiuying, istri Zhu Yuanzhang, yang sedang hamil tua tampak sibuk melayani tamu di samping suaminya. Karena masih banyak orang berdatangan untuk memberikan penghormatan terakhir bagi Guo Zixing, mereka tidak ingin mengganggu, dan hanya duduk bersama para tamu lain sambil menikmati hidangan yang disediakan.
 
-Zhao Min tanpa malu-malu mencicipi kue-kue yang rasanya manis buatan Ma Xiuying, istri Zhu Yuanzhang. Zhou Zhiruo yang sudah menjadi ahli membuat makanan sejak kecil   
-di Emei memperhatikan bahwa makanan-makanan kecil itu kebanyakan terbuat dari bahan dasar tepung beras dan gandum. Cara membuatnya cukup unik, dan agak berbeda dari   
-makanan ringan yang biasa dibuatnya untuk Miejue Shitai di Emei.
+Zhao Min tanpa malu-malu mencicipi kue-kue yang rasanya manis buatan Ma Xiuying, istri Zhu Yuanzhang. Zhou Zhiruo yang sudah menjadi ahli membuat makanan sejak kecil di Emei memperhatikan bahwa makanan-makanan kecil itu kebanyakan terbuat dari bahan dasar tepung beras dan gandum. Cara membuatnya cukup unik, dan agak berbeda dari makanan ringan yang biasa dibuatnya untuk Miejue Shitai di Emei.
 
-Miejue Shitai memang sangat menyukai makanan buatan Zhou Zhiruo, tetapi akan dengan keras menegurnya jika ia terlalu lama menghabiskan waktu di dapur. Setelah ia beranjak   
-dewasa, Miejue Shitai selalu mengawasi latihannya dengan lebih ketat. Tetapi karena Zhou Zhiruo secara alamiah memang berbakat untuk membuat makanan, maka ia akan tetap   
-menyisihkan cukup banyak waktu di dapur. Tekanan dari Ding Mingjun yang iri melihat gurunya selalu mengistimewakan Zhou Zhiruo, lalu sengaja menyuruhnya membuat makanan yang sulit-sulit,   
-justru sangat menantang bagi Zhou Zhiruo. 
+Miejue Shitai memang sangat menyukai makanan buatan Zhou Zhiruo, tetapi akan dengan keras menegurnya jika ia terlalu lama menghabiskan waktu di dapur. Setelah ia beranjak dewasa, Miejue Shitai selalu mengawasi latihannya dengan lebih ketat. Tetapi karena Zhou Zhiruo secara alamiah memang berbakat untuk membuat makanan, maka ia akan tetap menyisihkan cukup banyak waktu di dapur. Tekanan dari Ding Mingjun yang iri melihat gurunya selalu mengistimewakan Zhou Zhiruo, lalu sengaja menyuruhnya membuat makanan yang sulit-sulit, justru sangat menantang bagi Zhou Zhiruo.
 
-Mereka memanfaatkan kesempatan ketika jumlah tamu menipis, lalu menyapa Zhu Yuanzhang dan keluarga Guo Zixing lainnya. Ibu Guo Tianxu dan Guo Tianyou juga hadir di situ,   
-dan membungkuk hormat ketika melihat Zhang Wuji. Ma Xiuying, istri Zhu Yuanzhang yang sedang hamil ikut membungkuk. Ketika melihat kehadiran Zhou Zhiruo dan Zhao Min,   
-ia mengira kedua wanita itu adalah istri Zhang Wuji, lalu dengan sopan membungkuk kepada mereka berdua sambil menyapa, "Harap Furen berdua sudi memaafkan kami, sejak tadi   
-banyak sekali orang datang, jadi kami tidak bisa melayani Furen berdua dengan selayaknya."
+Mereka memanfaatkan kesempatan ketika jumlah tamu menipis, lalu menyapa Zhu Yuanzhang dan keluarga Guo Zixing lainnya. Ibu Guo Tianxu dan Guo Tianyou juga hadir di situ, dan membungkuk hormat ketika melihat Zhang Wuji. Ma Xiuying, istri Zhu Yuanzhang yang sedang hamil ikut membungkuk. Ketika melihat kehadiran Zhou Zhiruo dan Zhao Min, ia mengira kedua wanita itu adalah istri Zhang Wuji, lalu dengan sopan membungkuk kepada mereka berdua sambil menyapa, "Harap Furen berdua sudi memaafkan kami, sejak tadi banyak sekali orang datang, jadi kami tidak bisa melayani Furen berdua dengan selayaknya."
 
-\[^dasao\]: Da Sao (大嫂) \= kakak ipar perempuan.
+[^dasao]: Da Sao (大嫂) \= kakak ipar perempuan.
 
-Sambil tersipu Zhou Zhiruo dan Zhao Min cepat-cepat mencegahnya memberi hormat. "Dasao\[^dasao\] tidak perlu begini," kata Zhou Zhiruo dengan luwes. "Kami berdua bukan Jiaozhu Furen."   
-Keduanya segera memperkenalkan diri sebagai teman Zhang Wuji dengan muka merah.
+Sambil tersipu Zhou Zhiruo dan Zhao Min cepat-cepat mencegahnya memberi hormat. "Dasao\[^dasao\] tidak perlu begini," kata Zhou Zhiruo dengan luwes. "Kami berdua bukan Jiaozhu Furen." Keduanya segera memperkenalkan diri sebagai teman Zhang Wuji dengan muka merah.
 
 Melihat ini Ma Xiuying mulai memahami. Dengan bijaksana ia tidak menanyakan lebih jauh hubungan antara Zhang Wuji dengan mereka berdua.
 
@@ -183,211 +165,128 @@ Zhu Yuanzhang terkejut, tetapi sesaat kemudian ia menjawab, "Dashi, saat itu dal
 
 "Tapi kau sebelumnya tahu bahwa dia adalah mantan orang pemerintah, kan?" tanya Fan Yao dengan nada tajam.
 
-Saat itu Zhao Min melihat Ma Xiuying tampak gemetar, menatap suaminya lekat-lekat, dan meskipun hanya sedetik, tapi ia sempat melihat isyarat samar   
-dari Zhu Yuanzhang. Zhou Zhiruo yang juga melihat hal ini segera menggandeng tangan Zhao Min, lalu berkata kepada Ma Xiuying, "Dasao, sejak tadi kami   
-ingin menanyakan bagaimana Dasao membuat kue bertabur wijen itu, kami sangat menyukainya. Mungkin Dasao bisa memberitahu caranya."
+Saat itu Zhao Min melihat Ma Xiuying tampak gemetar, menatap suaminya lekat-lekat, dan meskipun hanya sedetik, tapi ia sempat melihat isyarat samar dari Zhu Yuanzhang. Zhou Zhiruo yang juga melihat hal ini segera menggandeng tangan Zhao Min, lalu berkata kepada Ma Xiuying, "Dasao, sejak tadi kami ingin menanyakan bagaimana Dasao membuat kue bertabur wijen itu, kami sangat menyukainya. Mungkin Dasao bisa memberitahu caranya."
 
 Mereka berdua mengajak Ma Xiuying duduk di ruangan lain.
 
 Zhang Wuji berkata kepada Zhu Yuanzhang setelah ketiga wanita itu pergi, "Zhu Dage, sebaiknya kita bicara di ruangan lain."
 
-Zhu Yuanzhang mengajak mereka ke sebuah ruangan yang lebih kecil dan kosong. Setelah Zhu Yuanzhang menutup pintu, Fan Yao kembali berkata, "Zhu Yuanzhang,   
-sebutkan peraturan utama Ming Jiao nomor tiga\!"
+Zhu Yuanzhang mengajak mereka ke sebuah ruangan yang lebih kecil dan kosong. Setelah Zhu Yuanzhang menutup pintu, Fan Yao kembali berkata, "Zhu Yuanzhang, sebutkan peraturan utama Ming Jiao nomor tiga!"
 
 Zhu Yuanzhang tidak punya pilihan, dan mengucapkan apa yang dihafalnya, "Anggota Ming Jiao dilarang keras saling berkelahi, apalagi membunuh rekan sendiri."
 
-"Bagus\!" kata Fan Yao. "Lalu mengapa kau membunuh Guo Tianxu dan Guo Tianyou?"
+"Bagus!" kata Fan Yao. "Lalu mengapa kau membunuh Guo Tianxu dan Guo Tianyou?"
 
 "Fan Yooshi, Zaixia tidak membunuh mereka," jawab Zhu Yuanzhang. "Mereka tewas di medan perang."
 
-"Memang betul kau tidak membunuh mereka dengan tanganmu sediri," kata Shuobude. "Tapi kau sengaja mengatur supaya mereka memimpin di garis depan, dan kau   
-tidak berbuat apa-apa untuk mendukung. Kau juga mengajak bawahanmu untuk melakukan hal yang sama — Jian Si Bu Jiu\[^jian-si-bu-jiu\] — ini sama saja dengan membunuh\!"
+"Memang betul kau tidak membunuh mereka dengan tanganmu sediri," kata Shuobude. "Tapi kau sengaja mengatur supaya mereka memimpin di garis depan, dan kau tidak berbuat apa-apa untuk mendukung. Kau juga mengajak bawahanmu untuk melakukan hal yang sama — Jian Si Bu Jiu[^jian-si-bu-jiu] — ini sama saja dengan membunuh\!"
 
-\[^jian-si-bu-jiu\]: Pepatah Tiongkok Jian Si Bu Jiu (见死不救, atau dalam karakter tradisional: 見死不救), yang secara literal berarti 'Melihat orang mau mati tapi tidak berbuat apa-apa'. Ini setara dengan euthanasia.
+[^jian-si-bu-jiu]: Pepatah Tiongkok Jian Si Bu Jiu (见死不救, atau dalam karakter tradisional: 見死不救), yang secara literal berarti 'Melihat orang mau mati tapi tidak berbuat apa-apa'. Ini setara dengan euthanasia.
 
-Mendengar ini, Zhu Yuanzhang cepat-cepat berlutut di hadapan Zhang Wuji, lalu berkata dengan berlinang air mata, "Jiaozhu, mohon ampun — memang betul yang dikatakan Shuobude Dashi,   
-tapi sejak semula Guo Tianxu dan Guo Tianyou selalu ingin membunuh Zaixia. Dalam hal ini Zaixia sungguh tidak punya pilihan lain. Kalau Jiaozhu memang menganggap   
-Zaixia bersalah, maka Zaixia hanya bisa menerima hukuman yang setimpal. Tapi Zaixia tahu Jiaozhu sangat bijaksana, dan bukan orang yang sembarangan menghukum."
+Mendengar ini, Zhu Yuanzhang cepat-cepat berlutut di hadapan Zhang Wuji, lalu berkata dengan berlinang air mata, "Jiaozhu, mohon ampun — memang betul yang dikatakan Shuobude Dashi, tapi sejak semula Guo Tianxu dan Guo Tianyou selalu ingin membunuh Zaixia. Dalam hal ini Zaixia sungguh tidak punya pilihan lain. Kalau Jiaozhu memang menganggap Zaixia bersalah, maka Zaixia hanya bisa menerima hukuman yang setimpal. Tapi Zaixia tahu Jiaozhu sangat bijaksana, dan bukan orang yang sembarangan menghukum."
 
-\*\*\*
+*******
 
-Sementara itu di ruangan lain, Zhao Min dan Zhou Zhiruo menggandeng tangan Ma Xiuying yang sedang hamil dengan lembut, lalu mengajaknya duduk dengan nyaman di kursi. Ketika wanita itu   
-kembali ingin memberi hormat kepada mereka, Zhao Min cepat-cepat mencegahnya, dan berkata, "Dasao, kami tahu apa yang Dasao kuatirkan. Tapi percayalah, Zhang Jiaozhu  
-bukan orang yang tidak punya pertimbangan. Hanya saja, tindakan seperti ini tidak boleh terulang lagi."
+Sementara itu di ruangan lain, Zhao Min dan Zhou Zhiruo menggandeng tangan Ma Xiuying yang sedang hamil dengan lembut, lalu mengajaknya duduk dengan nyaman di kursi. Ketika wanita itu kembali ingin memberi hormat kepada mereka, Zhao Min cepat-cepat mencegahnya, dan berkata, "Dasao, kami tahu apa yang Dasao kuatirkan. Tapi percayalah, Zhang Jiaozhu bukan orang yang tidak punya pertimbangan. Hanya saja, tindakan seperti ini tidak boleh terulang lagi."
 
-Ma Xiuying terisak dan berkata dengan terbata-bata, "Aku sudah berusaha... mencegahnya... Ini sudah beberapa kali... beberapa kali terjadi... maksudku dia... suamiku sudah beberapa kali   
-mencoba memperingatkan mereka... Tapi mereka memang selalu ingin membunuhnya... Akhirnya dia tidak punya pilihan lain..."
+Ma Xiuying terisak dan berkata dengan terbata-bata, "Aku sudah berusaha... mencegahnya... Ini sudah beberapa kali... beberapa kali terjadi... maksudku dia... suamiku sudah beberapa kali mencoba memperingatkan mereka... Tapi mereka memang selalu ingin membunuhnya... Akhirnya dia tidak punya pilihan lain..."
 
-Zhou Zhiruo dengan lembut berkata, "Dasao, di dunia ini tidak ada manusia yang tidak pernah melakukan kesalahan. Xiaomei dan Zhao Meizi ini juga melakukan kesalahan, bahkan   
-Zhang Jiaozhu juga sama. Tapi jika Jiaozhu membiarkan begitu saja apa yang dilakukan oleh Zhu Dage, tanpa berbuat apa-apa, maka selanjutnya akan terjadi kekacauan besar.   
-Banyak orang akan meniru, dan sembarangan membunuh orang yang tidak disukainya, atau saling bunuh tanpa peduli akan peraturan lagi. Tapi Xiaomei yakin, Zhang Jiaozhu tetap akan memaafkan tindakan ini.   
-Meskipun begitu, kalau boleh Xiao Mei meminta supaya Dasao mau bekerja sama dengan kami untuk mencegah kejadian yang sama terulang. Bukankah ini akan sangat baik? Sebagai wanita,   
-Xiaomei merasa hanya ini tindakan terbaik yang bisa kita lakukan, kan?"
+Zhou Zhiruo dengan lembut berkata, "Dasao, di dunia ini tidak ada manusia yang tidak pernah melakukan kesalahan. Xiaomei dan Zhao Meizi ini juga melakukan kesalahan, bahkan Zhang Jiaozhu juga sama. Tapi jika Jiaozhu membiarkan begitu saja apa yang dilakukan oleh Zhu Dage, tanpa berbuat apa-apa, maka selanjutnya akan terjadi kekacauan besar. Banyak orang akan meniru, dan sembarangan membunuh orang yang tidak disukainya, atau saling bunuh tanpa peduli akan peraturan lagi. Tapi Xiaomei yakin, Zhang Jiaozhu tetap akan memaafkan tindakan ini. Meskipun begitu, kalau boleh Xiao Mei meminta supaya Dasao mau bekerja sama dengan kami untuk mencegah kejadian yang sama terulang. Bukankah ini akan sangat baik? Sebagai wanita, Xiaomei merasa hanya ini tindakan terbaik yang bisa kita lakukan, kan?"
 
-Mendengar ucapan Zhou Zhiruo ini, Ma Xiuying tampak lebih tenang. Tetapi sesaat kemudian ia bangkit dari kursinya, lalu ingin berlutut untuk memberi hormat. Zhou Zhiruo dan   
-Zhao Min lagi-lagi mencegahnya, dan memapahnya kembali ke tempat duduk. "Nona Zhou, Nona Zhao," kata Ma Xiuying. "Di jaman yang kejam ini, sungguh jarang bisa bertemu dengan   
-orang-orang seperti kalian. Aku tahu kalian berdua sangat dekat dengan Jiaozhu. Lain kali aku yang bodoh ini pasti sangat membutuhkan nasihat dari kalian berdua. Aku tahu suamiku   
-kadang-kadang bisa tak terkendali, tapi aku juga tahu dia sungguh-sungguh memperhatikan kepentingan rakyat. Kumohon kalian bisa memaklumi tindakannya kali ini."
+Mendengar ucapan Zhou Zhiruo ini, Ma Xiuying tampak lebih tenang. Tetapi sesaat kemudian ia bangkit dari kursinya, lalu ingin berlutut untuk memberi hormat. Zhou Zhiruo dan Zhao Min lagi-lagi mencegahnya, dan memapahnya kembali ke tempat duduk. "Nona Zhou, Nona Zhao," kata Ma Xiuying. "Di jaman yang kejam ini, sungguh jarang bisa bertemu dengan orang-orang seperti kalian. Aku tahu kalian berdua sangat dekat dengan Jiaozhu. Lain kali aku yang bodoh ini pasti sangat membutuhkan nasihat dari kalian berdua. Aku tahu suamiku kadang-kadang bisa tak terkendali, tapi aku juga tahu dia sungguh-sungguh memperhatikan kepentingan rakyat. Kumohon kalian bisa memaklumi tindakannya kali ini."
 
 Zhao Min berkata, "Dasao, asalkan kami tahu apa yang terjadi, lain kali kami pasti akan bisa membantu Dasao mencegah terjadinya tindakan yang semacam ini."
 
-Ia tahu, mulai sekarang mereka akan lebih sering mendengar kabar dari Ma Xiuying. Dan wanita ini adalah sekutu yang baik. Dengan begini setidaknya mereka akan bisa mengendalikan   
-tindakan Zhu Yuanzhang.
+Ia tahu, mulai sekarang mereka akan lebih sering mendengar kabar dari Ma Xiuying. Dan wanita ini adalah sekutu yang baik. Dengan begini setidaknya mereka akan bisa mengendalikan tindakan Zhu Yuanzhang.
 
 Mereka berdua masih menemani Ma Xiuying di ruangan itu sambil mengobrol tentang resep-resep makanan yang ditanyakan Zhou Zhiruo.
 
-\*\*\*
+*******
 
-Zhang Wuji bermaksud membantu Zhu Yuanzhang, yang masih berlutut tanpa berani menatapnya, untuk bangkit berdiri. Tetapi baik Fan Yao maupun Shuobude memberinya   
-isyarat untuk tidak melakukan hal itu.
+Zhang Wuji bermaksud membantu Zhu Yuanzhang, yang masih berlutut tanpa berani menatapnya, untuk bangkit berdiri. Tetapi baik Fan Yao maupun Shuobude memberinya isyarat untuk tidak melakukan hal itu.
 
-Sebaliknya, Fan Yao berkata dengan nada tajam, "Zhu Yuanzhang, kau tahu Jiaozhu baik hati dan tidak sembarangan menghukum, dan kau sengaja ingin memanfaatkan   
-kebaikannya untuk menyelamatkan diri?"
+Sebaliknya, Fan Yao berkata dengan nada tajam, "Zhu Yuanzhang, kau tahu Jiaozhu baik hati dan tidak sembarangan menghukum, dan kau sengaja ingin memanfaatkan kebaikannya untuk menyelamatkan diri?"
 
 "Zaixia tidak berani," jawab Zhu Yuanzhang tanpa mengangkat kepalanya untuk menatap Fan Yao.
 
 "Sekarang katakan, untuk kesalahan semacam ini, bagaimana seharusnya kau dihukum?" tanya Fan Yao lagi.
 
-Zhu Yuanzhang tahu, aturan ini ditetapkan oleh Zhang Wuji, dan yang melanggarnya harus dikeluarkan dari Ming Jiao. Di masa lalu sebelum Zhang Wuji memimpin,   
-pelanggaran semacam ini akan mendapatkan hukuman mati atau salah satu kaki atau tangannya dipotong. Tetapi meskipun Hongjin Qiyi yang dipimpin mertuanya ini   
-adalah cabang dari Ming Jiao, tetapi ajaran yang mereka anut tidak sungguh-sungguh sama. Meskipun begitu, jika saat ini ia berdebat dengan Fan Yao, bukan tidak mungkin   
-Fan Yao akan menjatuhkan hukuman yang lebih berat, dan Zhang Wuji akan menyetujuinya, padahal jika ia dikeluarkan dari Ming Jiao, dengan sendirinya ia akan kehilangan   
-semua prajurit yang dikumpulkannya dengan susah payah selama ini, dan jangan bermimpi untuk mengambil alih kepemimpinan atas semua pasukan Guo Zixing. Karena itu   
-ia buru-buru membenturkan dahinya tiga kali di lantai dan berkata, "Zaixia hanya bisa menerima hukuman apapun yang dijatuhkan oleh Jiaozhu."
+Zhu Yuanzhang tahu, aturan ini ditetapkan oleh Zhang Wuji, dan yang melanggarnya harus dikeluarkan dari Ming Jiao. Di masa lalu sebelum Zhang Wuji memimpin, pelanggaran semacam ini akan mendapatkan hukuman mati atau salah satu kaki atau tangannya dipotong. Tetapi meskipun Hongjin Qiyi yang dipimpin mertuanya ini adalah cabang dari Ming Jiao, tetapi ajaran yang mereka anut tidak sungguh-sungguh sama. Meskipun begitu, jika saat ini ia berdebat dengan Fan Yao, bukan tidak mungkin Fan Yao akan menjatuhkan hukuman yang lebih berat, dan Zhang Wuji akan menyetujuinya, padahal jika ia dikeluarkan dari Ming Jiao, dengan sendirinya ia akan kehilangan semua prajurit yang dikumpulkannya dengan susah payah selama ini, dan jangan bermimpi untuk mengambil alih kepemimpinan atas semua pasukan Guo Zixing. Karena itu ia buru-buru membenturkan dahinya tiga kali di lantai dan berkata, "Zaixia hanya bisa menerima hukuman apapun yang dijatuhkan oleh Jiaozhu."
 
-Sebenarnya Zhu Yuanzhang tidak rela menerima kenyataan bahwa dirinya harus tunduk kepada Zhan Wuji yang sudah dikenalnya sejak masih kecil ini. Meskipun ia merasa   
-Zhang Wuji tidak mengerti apa-apa, tetapi kungfunya sangat tinggi, tak seorang pun bisa menandinginya, ini adalah fakta yang mau tidak mau harus diterimanya.   
-Selain itu, jangankan anggota Ming Jiao biasa, bahkan Han Shantong, Xu Shouhui, dan juga Guo Zixing, sangat menghormatinya. Seandainya Zhang Wuji ingin menjatuhkan   
-hukuman mati, maka saat itu nyawanya pasti sudah melayang. Karena itu ia merendahkan dirinya dan membulatkan tekad, lalu mengucapkan kalimat terakhir itu. Ia masih   
-berlutut tanpa mengangkat kepalanya untuk menunggu keputusan Zhang Wuji.
+Sebenarnya Zhu Yuanzhang tidak rela menerima kenyataan bahwa dirinya harus tunduk kepada Zhan Wuji yang sudah dikenalnya sejak masih kecil ini. Meskipun ia merasa Zhang Wuji tidak mengerti apa-apa, tetapi kungfunya sangat tinggi, tak seorang pun bisa menandinginya, ini adalah fakta yang mau tidak mau harus diterimanya. Selain itu, jangankan anggota Ming Jiao biasa, bahkan Han Shantong, Xu Shouhui, dan juga Guo Zixing, sangat menghormatinya. Seandainya Zhang Wuji ingin menjatuhkan hukuman mati, maka saat itu nyawanya pasti sudah melayang. Karena itu ia merendahkan dirinya dan membulatkan tekad, lalu mengucapkan kalimat terakhir itu. Ia masih berlutut tanpa mengangkat kepalanya untuk menunggu keputusan Zhang Wuji.
 
-Sejenak Zhang Wuji dilanda dilema. Jika ia tidak menghukum Zhu Yuanzhang, maka peraturan yang ditetapkannya akan terus diabaikan dan selanjutnya peristiwa yang sama   
-masih akan terjadi. Tetapi Zhu Yuanzhang sudah dikenalnya sejak kecil. Selain itu, saat ini sangat masuk akal jika Zhu Yuanzhang memimpin pasukan Guo Zixing. Ia sudah   
-menyaksikan kedahsyatan pasukan yang berada di bawah komando Zhu Yuanzhang ketika mereka bertempur di Shaolin. Adalah kehilangan besar jika ia mengusir Zhu Yuanzhang   
-dari Ming Jiao, apalagi menjatuhkan hukuman mati gara-gara orang ini melakukan sesuatu yang menyebabkan Guo Tianxu dan Guo Tianyou tewas. Toh kedua orang itu sebenarnya   
-juga bersalah karena beberapa kali ingin membunuh Zhu Yuanzhang. Selain itu, Fan Yao juga pernah melakukan pelanggaran yang sama dengan membunuh anggota Ming Jiao demi   
-meyakinkan Chaghan Temur mengenai kesetiaannya.
+Sejenak Zhang Wuji dilanda dilema. Jika ia tidak menghukum Zhu Yuanzhang, maka peraturan yang ditetapkannya akan terus diabaikan dan selanjutnya peristiwa yang sama masih akan terjadi. Tetapi Zhu Yuanzhang sudah dikenalnya sejak kecil. Selain itu, saat ini sangat masuk akal jika Zhu Yuanzhang memimpin pasukan Guo Zixing. Ia sudah menyaksikan kedahsyatan pasukan yang berada di bawah komando Zhu Yuanzhang ketika mereka bertempur di Shaolin. Adalah kehilangan besar jika ia mengusir Zhu Yuanzhang dari Ming Jiao, apalagi menjatuhkan hukuman mati gara-gara orang ini melakukan sesuatu yang menyebabkan Guo Tianxu dan Guo Tianyou tewas. Toh kedua orang itu sebenarnya juga bersalah karena beberapa kali ingin membunuh Zhu Yuanzhang. Selain itu, Fan Yao juga pernah melakukan pelanggaran yang sama dengan membunuh anggota Ming Jiao demi meyakinkan Chaghan Temur mengenai kesetiaannya.
 
-Beberapa detik kemudian, ia melangkah maju untuk membantu Zhu Yuanzhang bangkit berdiri, lalu berkata, "Zhu Dage, terus terang saja, aku sangat sedih mendengar peristiwa ini.   
-Seharusnya Zhu Dage bisa melaporkan sengketa seperti ini kepada kami, dan kami pasti akan bertindak seadil-adilnya. Tapi aku tidak ingin membuat peristiwa ini merusak   
-persatuan kita. Jadi aku masih akan membiarkan semua prajurit yang saat ini ada di bawah komando Zhu Dage tetap seperti sekarang. Hanya saja, tentang sisa prajurit lainnya, Kaisar\[^kaisar-1\]   
-yang akan memutuskannya. Dengan begitu kita tetap menjalankan aturan  
-yang berlaku, dan Zhu Dage akan tetap menerima hukuman. Mulai sekarang Shuobude Dashi yang akan memimpin wilayah ini  
-sebagai pengawas sampai pihak Han Xiongdi mengeluarkan keputusan resmi mengenai kepemimpinan pasukan. Zhu Dage harus   
-melaporkan semua rencana yang ingin dilakukan kepada Shuobude Dashi, sampai hal yang sekecil-kecilnya. Jika Shuobude  
-Dashi tidak mengijinkan, artinya tindakan itu tidak boleh dilakukan. Jika sekali lagi Dage melanggar peraturan, maka   
-kami pasti akan menjatuhkan hukuman berat. Kuharap Zhu Dage bisa menerima keputusan ini."
+Beberapa detik kemudian, ia melangkah maju untuk membantu Zhu Yuanzhang bangkit berdiri, lalu berkata, "Zhu Dage, terus terang saja, aku sangat sedih mendengar peristiwa ini. Seharusnya Zhu Dage bisa melaporkan sengketa seperti ini kepada kami, dan kami pasti akan bertindak seadil-adilnya. Tapi aku tidak ingin membuat peristiwa ini merusak persatuan kita. Jadi aku masih akan membiarkan semua prajurit yang saat ini ada di bawah komando Zhu Dage tetap seperti sekarang. Hanya saja, tentang sisa prajurit lainnya, Kaisar[^kaisar-1] yang akan memutuskannya. Dengan begitu kita tetap menjalankan aturan yang berlaku, dan Zhu Dage akan tetap menerima hukuman. Mulai sekarang Shuobude Dashi yang akan memimpin wilayah ini sebagai pengawas sampai pihak Han Xiongdi mengeluarkan keputusan resmi mengenai kepemimpinan pasukan. Zhu Dage harus melaporkan semua rencana yang ingin dilakukan kepada Shuobude Dashi, sampai hal yang sekecil-kecilnya. Jika Shuobude Dashi tidak mengijinkan, artinya tindakan itu tidak boleh dilakukan. Jika sekali lagi Dage melanggar peraturan, maka kami pasti akan menjatuhkan hukuman berat. Kuharap Zhu Dage bisa menerima keputusan ini."
 
-\[^kaisar-1\]: Dalam hal ini, Kaisar yang dimaksud Zhang Wuji adalah Han Lin'er, yang baru hendak dinobatkan sebagai Kaisar Dinasti Song yang baru di Bozhou.   
-\[^shouxia\]: Shou Xia (手下) \= Anak Buah atau bawahan.
+[^kaisar-1]: Dalam hal ini, Kaisar yang dimaksud Zhang Wuji adalah Han Lin'er, yang baru hendak dinobatkan sebagai Kaisar Dinasti Song yang baru di Bozhou.   
+[^shouxia]: Shou Xia (手下) = Anak Buah atau bawahan.
 
-Dengan sungguh hati Zhu Yuanzhang membenturkan dahinya di lantai berkali-kali, lalu berkata, "Shouxia\[^shouxia\] akan mematuhi semua perintah Jiaozhu dengan   
-segenap hati. Jiaozhu sungguh bijaksana."
+Dengan sungguh hati Zhu Yuanzhang membenturkan dahinya di lantai berkali-kali, lalu berkata, "Shouxia\[^shouxia\] akan mematuhi semua perintah Jiaozhu dengan segenap hati. Jiaozhu sungguh bijaksana."
 
-Dengan keputusan itu, Shou Bude terpaksa tinggal di Chuzhou sebagai pengawas bagi pasukan dan anggota yang sebelumnya berada di bawah kepemimpinan Guo Zixing.   
-Zhang Wuji, Fan Yao, Zhou Zhiruo dan Zhao Min masih menginap beberapa hari di tempat kediaman keluarga Guo Zixing untuk merundingkan apa saja yang perlu   
-dilakukan oleh Shuobude di situ.
+Dengan keputusan itu, Shou Bude terpaksa tinggal di Chuzhou sebagai pengawas bagi pasukan dan anggota yang sebelumnya berada di bawah kepemimpinan Guo Zixing. Zhang Wuji, Fan Yao, Zhou Zhiruo dan Zhao Min masih menginap beberapa hari di tempat kediaman keluarga Guo Zixing untuk merundingkan apa saja yang perlu dilakukan oleh Shuobude di situ.
 
-Pada hari kedua, Zhang Wuji berjalan-jalan di sekitar tempat kediaman keluarga Guo Zixing itu dengan ditemani oleh Zhou Zhiruo dan Zhao Min. Wilayah itu berbatasan   
-dengan Jiangsu di sebelah timur, dan Huainan di sebelah barat. Chuzhou sangat dipengaruhi perubahan musim. Di musim dingin, cuaca sangat dingin. Di musim panas, cuaca   
-lebih panas ketimbang daerah lain.
+Pada hari kedua, Zhang Wuji berjalan-jalan di sekitar tempat kediaman keluarga Guo Zixing itu dengan ditemani oleh Zhou Zhiruo dan Zhao Min. Wilayah itu berbatasan dengan Jiangsu di sebelah timur, dan Huainan di sebelah barat. Chuzhou sangat dipengaruhi perubahan musim. Di musim dingin, cuaca sangat dingin. Di musim panas, cuaca lebih panas ketimbang daerah lain.
 
-Saat itu mereka sedang berada di awal musim dingin. Mereka kebetulan melihat Xu Da dan Chang Yuchun sedang membakar dua ekor angsa sambil minum arak di tepi sungai.   
-Ketika melihat Zhang Wuji, kedua orang itu buru-buru memberi hormat, tetapi Zhang Wuji mencegahnya, dan dengan santai berkata, "Kita bukan sedang berada di tengah   
-rapat, untuk apa bersikap begitu formal. Xu Dage, kau masih ingat saat masih kecil kita sempat makan daging di tengah bencana kelaparan, waktu aku sedang mengantarkan   
-Buhui Meimei ke Kunlun Shan? Sekarang aku ingin menikmati daging angsa itu\!"
+Saat itu mereka sedang berada di awal musim dingin. Mereka kebetulan melihat Xu Da dan Chang Yuchun sedang membakar dua ekor angsa sambil minum arak di tepi sungai. Ketika melihat Zhang Wuji, kedua orang itu buru-buru memberi hormat, tetapi Zhang Wuji mencegahnya, dan dengan santai berkata, "Kita bukan sedang berada di tengah rapat, untuk apa bersikap begitu formal. Xu Dage, kau masih ingat saat masih kecil kita sempat makan daging di tengah bencana kelaparan, waktu aku sedang mengantarkan Buhui Meimei ke Kunlun Shan? Sekarang aku ingin menikmati daging angsa itu\!"
 
-Xu Da tertawa terbahak-bahak, lalu dengan gembira membagi makanannya untuk Zhang Wuji dan Zhao Min. Chang Yuchun mematahkan paha angsa dan memberikannya kepada Zhou Zhiruo.   
-"Betapa cepatnya waktu berlalu," kata Chang Yuchun. "Tak kusangka sekarang kau sudah tumbuh dewasa menjadi gadis yang sangat cantik, mungkin sebentar lagi akan menjadi Jiaozhu Furen\!"
+Xu Da tertawa terbahak-bahak, lalu dengan gembira membagi makanannya untuk Zhang Wuji dan Zhao Min. Chang Yuchun mematahkan paha angsa dan memberikannya kepada Zhou Zhiruo. "Betapa cepatnya waktu berlalu," kata Chang Yuchun. "Tak kusangka sekarang kau sudah tumbuh dewasa menjadi gadis yang sangat cantik, mungkin sebentar lagi akan menjadi Jiaozhu Furen!"
 
-Mendengar komentar itu, Zhou Zhiruo tersipu, mukanya merah padam. "Chang Dage, kalau sekali lagi kau bicara sembarangan, aku tidak akan mempedulikanmu lagi," katanya. "Zhao Meizi ini   
-yang akan menjadi Jiaozhu Furen."
+Mendengar komentar itu, Zhou Zhiruo tersipu, mukanya merah padam. "Chang Dage, kalau sekali lagi kau bicara sembarangan, aku tidak akan mempedulikanmu lagi," katanya. "Zhao Meizi ini yang akan menjadi Jiaozhu Furen."
 
-Xu Da dan Chang Yuchun tertawa lebih keras lagi mendengar jawaban itu. Xu Da menyodorkan kantong araknya kepada Zhang Wuji sambil berkata, "Wuji, kenapa tidak kedua-duanya sekaligus?   
-Kalian kelihatannya sangat cocok bertiga. Jangan mau kalah dengan Zhu Dashuai kita itu, hahaha...\!"
+Xu Da dan Chang Yuchun tertawa lebih keras lagi mendengar jawaban itu. Xu Da menyodorkan kantong araknya kepada Zhang Wuji sambil berkata, "Wuji, kenapa tidak kedua-duanya sekaligus? Kalian kelihatannya sangat cocok bertiga. Jangan mau kalah dengan Zhu Dashuai kita itu, hahaha...!"
 
-Kali ini muka Zhao Min memerah. Ia tahu bahwa Xu Da adalah orang jujur yang selalu bicara terus terang. Apa yang dikatakannya barusan, meskipun terdengar kasar dan main-main, adalah apa   
-yang ada di dalam hatinya.
+Kali ini muka Zhao Min memerah. Ia tahu bahwa Xu Da adalah orang jujur yang selalu bicara terus terang. Apa yang dikatakannya barusan, meskipun terdengar kasar dan main-main, adalah apa yang ada di dalam hatinya.
 
-Zhang Wuji mendengar nada agak sinis dalam kalimat terakhir itu. Tapi ia pura-pura tidak tahu. Rupanya saat ini Xu Da masih agak kesal melihat sikap Zhu Yuanzhang, karena itu mereka lebih   
-suka menjauhkan diri sambil minum arak berdua. Ia mendengar Chang Yuchun berkomentar, "Jabatan bisa mengubah manusia. Kalau kau diberi jabatan seperti dia,   
-mungkin kau juga akan berubah."
+Zhang Wuji mendengar nada agak sinis dalam kalimat terakhir itu. Tapi ia pura-pura tidak tahu. Rupanya saat ini Xu Da masih agak kesal melihat sikap Zhu Yuanzhang, karena itu mereka lebih suka menjauhkan diri sambil minum arak berdua. Ia mendengar Chang Yuchun berkomentar, "Jabatan bisa mengubah manusia. Kalau kau diberi jabatan seperti dia, mungkin kau juga akan berubah."
 
-Xu Da yang kelihatannya agak mabuk menimpali, "Jabatan kentut anjing\! Aku menjadi gelandangan atau kaisar pun tidak akan menangis seperti itu, sungguh memalukan\!" Ia kembali menenggak araknya   
-sambil tertawa dan menggigit dada angsa yang sedang dipegangnya, lalu mulai mengunyah sambil memejamkan matanya. "Hmm, wangi sekali daging angsa ini\!" Ia mulai   
-mengoceh sekehendak hati sambil menenggak araknya lagi.
+Xu Da yang kelihatannya agak mabuk menimpali, "Jabatan kentut anjing\! Aku menjadi gelandangan atau kaisar pun tidak akan menangis seperti itu, sungguh memalukan\!" Ia kembali menenggak araknya sambil tertawa dan menggigit dada angsa yang sedang dipegangnya, lalu mulai mengunyah sambil memejamkan matanya. "Hmm, wangi sekali daging angsa ini\!" Ia mulai mengoceh sekehendak hati sambil menenggak araknya lagi.
 
-Chang Yuchun juga menenggak araknya sendiri, lalu berkata dengan serius, "Sebaiknya kau mulai berhati-hati dengan ucapanmu. Kau tahu sendiri, sekarang ini Dashuai sudah berubah, kata-katamu   
-itu kalau didengar orang lain akan berakibat buruk."
+Chang Yuchun juga menenggak araknya sendiri, lalu berkata dengan serius, "Sebaiknya kau mulai berhati-hati dengan ucapanmu. Kau tahu sendiri, sekarang ini Dashuai sudah berubah, kata-katamu itu kalau didengar orang lain akan berakibat buruk."
 
-Tapi Xu Da kembali berkata, "Datang ke dunia ini tanpa membawa apa-apa, aku juga akan pergi dari dunia ini tanpa membawa apa-apa. Apanya yang buruk? Kalau tidak boleh bicara, itu barulah buruk\!"   
-Ia kemudian mengutip syair yang sering diucapkan para anggota Ming Jiao, "Apa nikmatnya hidup di dunia, dan apa susahnya kematian?"\[^syair-1\]
+Tapi Xu Da kembali berkata, "Datang ke dunia ini tanpa membawa apa-apa, aku juga akan pergi dari dunia ini tanpa membawa apa-apa. Apanya yang buruk? Kalau tidak boleh bicara, itu barulah buruk!" Ia kemudian mengutip syair yang sering diucapkan para anggota Ming Jiao, "Apa nikmatnya hidup di dunia, dan apa susahnya kematian?"\[^syair-1\]
 
-\[^syair-1\]: Kalimat ini adalah bagian dari \[doa yang selalu diucapkan oleh para anggota Ming Jiao\](\#doa-ming-jiao "Baca selengkapnya..."). 
+[^syair-1]: Kalimat ini adalah bagian dari [doa yang selalu diucapkan oleh para anggota Ming Jiao](#doa-ming-jiao "Baca selengkapnya...").
 
-Chang Yuchun berkata kepada Zhang Wuji, "Wuji Xiongdi, kau masih ingat waktu pertama kalinya kau ingin menancapkan jarum ke telapak kakiku? Saat itu aku juga berpikir seperti omongan Xu Da tadi.   
-Setelah akhirnya jarummu menembus kakiku, dan ternyata aku tidak mati, mulai saat itu aku tidak pernah takut apa-apa lagi. Nyatanya Lao Chang ini masih hidup sampai sekarang. Kalau makan,   
-aku bisa menghabiskan enam mangkuk nasi dan beberapa kilo daging\!" Ia tertawa lagi sambil menenggak araknya.
+Chang Yuchun berkata kepada Zhang Wuji, "Wuji Xiongdi, kau masih ingat waktu pertama kalinya kau ingin menancapkan jarum ke telapak kakiku? Saat itu aku juga berpikir seperti omongan Xu Da tadi. Setelah akhirnya jarummu menembus kakiku, dan ternyata aku tidak mati, mulai saat itu aku tidak pernah takut apa-apa lagi. Nyatanya Lao Chang ini masih hidup sampai sekarang. Kalau makan, aku bisa menghabiskan enam mangkuk nasi dan beberapa kilo daging\!" Ia tertawa lagi sambil menenggak araknya.
 
-"Tapi aku tetap berpendapat kau harus minum obat secara teratur, Chang Dage," kata Zhang Wuji. "Nanti aku akan menuliskan resep supaya kau bisa membuatnya sendiri. Bahan-bahannya bisa kau beli   
-di penjual obat biasa."
+"Tapi aku tetap berpendapat kau harus minum obat secara teratur, Chang Dage," kata Zhang Wuji. "Nanti aku akan menuliskan resep supaya kau bisa membuatnya sendiri. Bahan-bahannya bisa kau beli di penjual obat biasa."
 
-Tapi Chang Yuchun menggelengkan kepalanya sambil berkata, "Rasanya tidak perlu lagi, Wuji Xiongdi. Sekarang ini Lao Chang sangat sehat. Aku tidak akan mati sebelum menyaksikan kalian bertiga menikah\!"   
-Ia tertawa terbahak-bahak, lalu kembali menggigit daging angsa yang dipegangnya.
+Tapi Chang Yuchun menggelengkan kepalanya sambil berkata, "Rasanya tidak perlu lagi, Wuji Xiongdi. Sekarang ini Lao Chang sangat sehat. Aku tidak akan mati sebelum menyaksikan kalian bertiga menikah!" Ia tertawa terbahak-bahak, lalu kembali menggigit daging angsa yang dipegangnya.
 
 Mereka masih menemani Xu Da dan Chang Yuchun mengobrol sambil minum arak selama beberapa saat lagi, lalu kembali ke kediaman Zhu Yuanzhang untuk berunding dengan Shuobude dan Fan Yao.
 
 Beberapa hari setelah itu, Zhang Wuji, Fan Yao, Zhou Zhiruo dan Zhao Min meninggalkan Chuzhou. Tetapi setelah keluar dari pintu gerbang kota, Zhou Zhiruo bertanya, "Setelah ini kau mau ke mana?"
 
-Zhang Wuji sangat merindukan kakek gurunya, sebetulnya sebelum mendengar berita tentang kematian Guo Zixing ia ingin pergi ke Wudang bersama rombongan para pendekar Wudang yang membawa Song Qingshu.   
-Karena itu ia berkata, "Kurasa aku akan langsung ke Wudang Shan, dari sini agak jauh. Bagaimana kalau kau ikut bersama kami?"
+Zhang Wuji sangat merindukan kakek gurunya, sebetulnya sebelum mendengar berita tentang kematian Guo Zixing ia ingin pergi ke Wudang bersama rombongan para pendekar Wudang yang membawa Song Qingshu. Karena itu ia berkata, "Kurasa aku akan langsung ke Wudang Shan, dari sini agak jauh. Bagaimana kalau kau ikut bersama kami?"
 
 "Kami?" ulang Zhou Zhiruo.
 
-Fan Yao berkata, "Jiaozhu, Fan Yao akan langsung kembali ke Hangzhou, di situ masih banyak tugas yang harus diselesaikan. Dinasti Song yang baru itu masih sangat kacau, tidak tahu apa rencana mereka   
-setelah ini."
+Fan Yao berkata, "Jiaozhu, Fan Yao akan langsung kembali ke Hangzhou, di situ masih banyak tugas yang harus diselesaikan. Dinasti Song yang baru itu masih sangat kacau, tidak tahu apa rencana mereka setelah ini."
 
-"Baiklah, Fan Youshi," kata Zhang Wuji. "Setelah berunding dengan Tai Shifu aku akan kembali bergabung dengan kalian, saat ini terlalu banyak perubahan yang harus kupikirkan baik-baik, supaya kita tidak   
-salah melangkah." Ia lalu menitipkan bungkusan berisi Yitian Jian dan Tulong Dao untuk diperbaiki di Hangzhou. Wu Jingcao sungguh-sungguh seorang pandai besi yang hebat, persenjataan para anggota Ming Jiao   
-boleh dibilang hasil karyanya.
+"Baiklah, Fan Youshi," kata Zhang Wuji. "Setelah berunding dengan Tai Shifu aku akan kembali bergabung dengan kalian, saat ini terlalu banyak perubahan yang harus kupikirkan baik-baik, supaya kita tidak salah melangkah." Ia lalu menitipkan bungkusan berisi Yitian Jian dan Tulong Dao untuk diperbaiki di Hangzhou. Wu Jingcao sungguh-sungguh seorang pandai besi yang hebat, persenjataan para anggota Ming Jiao boleh dibilang hasil karyanya.
 
 Fan Yao membungkuk hormat sambil menerima kedua senjata itu, lalu segera menaiki kudanya menuju ke Hangzhou.
 
-Mereka bertiga masih berjalan sambil menuntun kuda masing-masing meninggalkan pintu gerbang kota, tak seorang pun bicara. Ketika sedang sibuk di tempat kediaman Guo Zixing, mereka punya bahan lain untuk   
-dibicarakan, dan ada hal penting yang harus dikerjakan. Sekarang Zhang Wuji sudah memutuskan untuk pergi ke Wudang menemui Zhang Sanfeng. Tanpa harus bertanya lagi, Zhou Zhiruo tahu bahwa Zhao Min   
-pasti akan mengikutinya.
+Mereka bertiga masih berjalan sambil menuntun kuda masing-masing meninggalkan pintu gerbang kota, tak seorang pun bicara. Ketika sedang sibuk di tempat kediaman Guo Zixing, mereka punya bahan lain untuk dibicarakan, dan ada hal penting yang harus dikerjakan. Sekarang Zhang Wuji sudah memutuskan untuk pergi ke Wudang menemui Zhang Sanfeng. Tanpa harus bertanya lagi, Zhou Zhiruo tahu bahwa Zhao Min pasti akan mengikutinya.
 
-Saat ini meskipun Yin Li masih hidup, dan kelihatannya Zhang Wuji juga memaafkan kesalahan yang dilakukannya di Pulau Ular, tetapi Zhou Zhiruo tahu bahwa tindakannya   
-di Shaolin pasti telah menimbulkan permusuhan di dalam hati para pendekar Wudang. Ia tidak tahu apa yang dipikirkan Zhang Sanfeng jika mendengar laporan mereka.   
-Memang betul mereka menganggap Song Qingshu dan Chen Youliang yang bertanggungjawab atas kematian Mo Shenggu. Tetap bagaimanapun juga, ia juga telah memanfaatkan   
-Song Qingshu demi membalas tindakan Zhang Wuji meninggalkannya di tengah upacara perkawinan mereka di Hangzhou. Dan Zhang Sanfeng pasti telah mendengar laporan   
-tentang peristiwa itu.
+Saat ini meskipun Yin Li masih hidup, dan kelihatannya Zhang Wuji juga memaafkan kesalahan yang dilakukannya di Pulau Ular, tetapi Zhou Zhiruo tahu bahwa tindakannya di Shaolin pasti telah menimbulkan permusuhan di dalam hati para pendekar Wudang. Ia tidak tahu apa yang dipikirkan Zhang Sanfeng jika mendengar laporan mereka. Memang betul mereka menganggap Song Qingshu dan Chen Youliang yang bertanggungjawab atas kematian Mo Shenggu. Tetap bagaimanapun juga, ia juga telah memanfaatkan Song Qingshu demi membalas tindakan Zhang Wuji meninggalkannya di tengah upacara perkawinan mereka di Hangzhou. Dan Zhang Sanfeng pasti telah mendengar laporan tentang peristiwa itu.
 
-Sekarang ini ternyata Zhang Wuji sendiri ingin menemui Zhang Sanfeng. Ia tidak tahu apa yang akan dikatakannya di hadapan Zhang Sanfeng. Sedangkan Zhao Min kelihatannya   
-tanpa rasa bersalah sedikit pun ingin mengikuti Zhang Wuji ke Wudang, dan berhadapan dengan Zhang Sanfeng, padahal sebelumnya Zhao Min telah menangkap dan menyiksa para   
-pendekar dari enam perguruan arus utama di Wulin. Mereka berdua sama-sama bersalah. Jika bocah perempuan yang licik ini berani menghadapi Zhang Sanfeng, masa dia tidak berani?
+Sekarang ini ternyata Zhang Wuji sendiri ingin menemui Zhang Sanfeng. Ia tidak tahu apa yang akan dikatakannya di hadapan Zhang Sanfeng. Sedangkan Zhao Min kelihatannya tanpa rasa bersalah sedikit pun ingin mengikuti Zhang Wuji ke Wudang, dan berhadapan dengan Zhang Sanfeng, padahal sebelumnya Zhao Min telah menangkap dan menyiksa para pendekar dari enam perguruan arus utama di Wulin. Mereka berdua sama-sama bersalah. Jika bocah perempuan yang licik ini berani menghadapi Zhang Sanfeng, masa dia tidak berani?
 
 Karena tadi Zhang Wuji sudah menawarkan supaya ia ikut bersama mereka, maka akhirnya ia berkata, "Baiklah, aku akan ikut bersama kalian ke Wudang Shan."
 
 Mendengar ucapannya, Zhang Wuji merasa gembira. "Tai Shifu pasti akan senang melihatmu," katanya.
 
-"Kau yakin begitu?" tanya Zhou Zhiruo sambil tersenyum pahit. "Jangan lupa, aku bersikap kurang ajar kepada paman gurumu di Shaolin, dan lagi,   
-aku juga menyebabkan... menyebabkan..." Ia ingin menyebutkan nama Song Qingshu, tapi kemudian tidak dilanjutkannya. 
+"Kau yakin begitu?" tanya Zhou Zhiruo sambil tersenyum pahit. "Jangan lupa, aku bersikap kurang ajar kepada paman gurumu di Shaolin, dan lagi, aku juga menyebabkan... menyebabkan..." Ia ingin menyebutkan nama Song Qingshu, tapi kemudian tidak dilanjutkannya.
 
-Beberapa hari belakangan ini, Zhang Wuji merasa senang melihat perangai Zhou Zhiruo kembali normal. Ia telah melupakan tindakan-tindakannya yang kejam sebelumnya.   
-Setelah Zhou Zhiruo sendiri menyebutkannya, barulah ia teringat, dan sekaligus juga teringat akan perbuatannya meninggalkan Zhou Zhiruo di tengah upacara perkawinan   
-di Hangzhou. Kalau ia ingat akan hadiah kaligrafi yang ditulis sendiri oleh kakek gurunya menjelang hari itu, ia merasa sangat menyesal. Jika mendengar laporan paman gurunya   
-tentang peristiwa itu, Zhang Sanfeng pasti sangat kecewa.
+Beberapa hari belakangan ini, Zhang Wuji merasa senang melihat perangai Zhou Zhiruo kembali normal. Ia telah melupakan tindakan-tindakannya yang kejam sebelumnya. Setelah Zhou Zhiruo sendiri menyebutkannya, barulah ia teringat, dan sekaligus juga teringat akan perbuatannya meninggalkan Zhou Zhiruo di tengah upacara perkawinan di Hangzhou. Kalau ia ingat akan hadiah kaligrafi yang ditulis sendiri oleh kakek gurunya menjelang hari itu, ia merasa sangat menyesal. Jika mendengar laporan paman gurunya tentang peristiwa itu, Zhang Sanfeng pasti sangat kecewa.
 
-Tiba-tiba Zhao Min tertawa. "Kalian tidak usah kuatir," kata Zhao Min. Seolah bisa membaca pikiran Zhang Wuji, ia melanjutkan dengan nada ringan, "Masih ada aku, Xiao Yaonu,   
-yang dosanya jauh lebih besar ketimbang semua orang lain. Aku menangkap empat paman gurumu, dan ketiga anak buah ayahku membuat paman keenammu cacat, meskipun akhirnya obatku   
-juga yang menyembuhkannya. Belum lagi kalau orang mengingat peristiwa di Haozhou, aku yang menyebabkan kalian gagal menikah." Ia terkekeh sambil menaiki kudanya,   
-lalu berkata lagi, "Tapi aku berani berbuat, berani bertanggungjawab. Kalau nanti kakek gurumu atau paman gurumu ingin membunuhku, aku tidak akan melarikan diri."
+Tiba-tiba Zhao Min tertawa. "Kalian tidak usah kuatir," kata Zhao Min. Seolah bisa membaca pikiran Zhang Wuji, ia melanjutkan dengan nada ringan, "Masih ada aku, Xiao Yaonu, yang dosanya jauh lebih besar ketimbang semua orang lain. Aku menangkap empat paman gurumu, dan ketiga anak buah ayahku membuat paman keenammu cacat, meskipun akhirnya obatku juga yang menyembuhkannya. Belum lagi kalau orang mengingat peristiwa di Haozhou, aku yang menyebabkan kalian gagal menikah." Ia terkekeh sambil menaiki kudanya, lalu berkata lagi, "Tapi aku berani berbuat, berani bertanggungjawab. Kalau nanti kakek gurumu atau paman gurumu ingin membunuhku, aku tidak akan melarikan diri."
 
 Zhang Wuji dan Zhou Zhiruo juga menaiki kuda mereka. "Kau masih bisa tertawa sambil menceritakan hal itu?" kata Zhang Wuji.
 
-"Kenapa tidak?" balas Zhao Min. "Zhang Jiaozhu, saat itu aku memang sedang membantu ayahku, dan ayahku adalah pejabat Dinasti Yuan, dia juga hanya melaksanakan tugasnya.   
-Jika kau ada di posisinya, kau juga pasti akan melakukan hal yang sama."
+"Kenapa tidak?" balas Zhao Min. "Zhang Jiaozhu, saat itu aku memang sedang membantu ayahku, dan ayahku adalah pejabat Dinasti Yuan, dia juga hanya melaksanakan tugasnya. Jika kau ada di posisinya, kau juga pasti akan melakukan hal yang sama."
 
 "Meracuni orang-orang kau bilang melaksanakan tugas?" kata Zhang Wuji. "Kalau aku, aku tidak bisa berbuat begitu."
 
@@ -395,34 +294,23 @@ Jika kau ada di posisinya, kau juga pasti akan melakukan hal yang sama."
 
 "Aku tidak tahu," jawab Zhang Wuji. "Tapi setidaknya kami tidak meracuni mereka, apalagi memotong jari-jari mereka."
 
-"Huh," dengus Zhao Min. "Baiklah, aku mengaku, aku memang memerintahkan orang untuk memotong jari beberapa orang yang kalah bertanding. Tapi aku tidak melakukannya terhadap paman-paman gurumu,   
-juga tidak kepada Song Qingshu\! Bahkan juga tidak terhadap Miejue Shitai atau murid-murid Emei lainnya\! Tapi para prajurit Hongjin Qiyi itu menguliti orang-orangyang mereka tangkap hidup-hidup,   
-membedah perutnya. Mereka merantai tawanan-tawanan ini, lalu menusuk-nusuk mereka dengan pisau, menaruh karung-karung pasir di atas kepala mereka, dan mengarak mereka keliling kota diiringi tabuhan   
-genderang dan nyanyian, bahkan juga doa-doa\!"
+"Huh," dengus Zhao Min. "Baiklah, aku mengaku, aku memang memerintahkan orang untuk memotong jari beberapa orang yang kalah bertanding. Tapi aku tidak melakukannya terhadap paman-paman gurumu, juga tidak kepada Song Qingshu\! Bahkan juga tidak terhadap Miejue Shitai atau murid-murid Emei lainnya\! Tapi para prajurit Hongjin Qiyi itu menguliti orang-orangyang mereka tangkap hidup-hidup, membedah perutnya. Mereka merantai tawanan-tawanan ini, lalu menusuk-nusuk mereka dengan pisau, menaruh karung-karung pasir di atas kepala mereka, dan mengarak mereka keliling kota diiringi tabuhan genderang dan nyanyian, bahkan juga doa-doa!"
 
 "Kami tidak pernah berbuat begitu\!" kata Zhang Wuji dengan sengit. "Kau jangan sembarangan bicara tanpa bukti."
 
-"Baik," balas Zhao Min. "Aku harus mengakui, ini memang tidak kusaksikan sendiri. Aku hanya mendengar dari cerita ayahku. Tapi aku sangat yakin ayahku tidak sembarangan bicara. Kalau kau tidak percaya,   
-kau bisa saja menyelidikinya sendiri. Aku juga ingin mendengar hasil penyelidikanmu."
+"Baik," balas Zhao Min. "Aku harus mengakui, ini memang tidak kusaksikan sendiri. Aku hanya mendengar dari cerita ayahku. Tapi aku sangat yakin ayahku tidak sembarangan bicara. Kalau kau tidak percaya, kau bisa saja menyelidikinya sendiri. Aku juga ingin mendengar hasil penyelidikanmu."
 
-Zhou Zhiruo dan Zhang Wuji sebelumnya pernah melihat sendiri Han Lin'er memaki beberapa orang rakyat setempat yang memuji kebaikan Kaisar Toghon Temur dengan nada penuh kebencian. Jika teringat hal itu,   
-mau tak mau mereka jadi merasa jangan-jangan apa yang dikatakan Zhao Min memang sungguh terjadi.
+Zhou Zhiruo dan Zhang Wuji sebelumnya pernah melihat sendiri Han Lin'er memaki beberapa orang rakyat setempat yang memuji kebaikan Kaisar Toghon Temur dengan nada penuh kebencian. Jika teringat hal itu, mau tak mau mereka jadi merasa jangan-jangan apa yang dikatakan Zhao Min memang sungguh terjadi.
 
-Jarak dari Chuzhou menuju ke Wudang Shan yang terletak di Hubei memang tidak terlalu jauh, tetapi juga bukan berarti dekat. Di sepanjang jalan keluar dari wilayah itu mereka seringkali mendengar umpatan   
-penuh kebencian dari orang-orang di jalan kepada Dinasti Yuan dan orang-orang Mongolia. Lalu mereka juga mendengar deretan anak-anak kecil menyanyikan syair tentang Sungai Kuning, dan mengagungkan para   
-pemberontak.
+Jarak dari Chuzhou menuju ke Wudang Shan yang terletak di Hubei memang tidak terlalu jauh, tetapi juga bukan berarti dekat. Di sepanjang jalan keluar dari wilayah itu mereka seringkali mendengar umpatan penuh kebencian dari orang-orang di jalan kepada Dinasti Yuan dan orang-orang Mongolia. Lalu mereka juga mendengar deretan anak-anak kecil menyanyikan syair tentang Sungai Kuning, dan mengagungkan para pemberontak.
 
 "Apa yang sedang mereka nyanyikan itu?" tanya Zhou Zhiruo.
 
-"Di daerah ini lagu semacam itu memang sering terdengar," kata Zhang Wuji. "Mengganggu Sungai Kuning, rakyat memberontak\!"
+"Di daerah ini lagu semacam itu memang sering terdengar," kata Zhang Wuji. "Mengganggu Sungai Kuning, rakyat memberontak!"
 
-"Semuanya ini bermula dari proyek pemerintah mengeruk dan merombak Sungai Kuning," kata Zhao Min. "Tentu saja pemerintah punya alasan untuk berbuat begitu,   
-karena sebelumnya terjadi banjir besar karena Sungai Kuning meluap. Kau punya ide lain, bagaimana cara mengatasinya?"
+"Semuanya ini bermula dari proyek pemerintah mengeruk dan merombak Sungai Kuning," kata Zhao Min. "Tentu saja pemerintah punya alasan untuk berbuat begitu, karena sebelumnya terjadi banjir besar karena Sungai Kuning meluap. Kau punya ide lain, bagaimana cara mengatasinya?"
 
-Zhang Wuji pernah mendengar uraian Yang Xiao mengenai peristiwa ini, dan setelah merenungkannya, sampai sekarang pun ia tidak bisa menjawab pertanyaan Zhao Min.   
-Yang ia tahu hanyalah, setelah proyek itu dilaksanakan, rakyat sangat menderita, kemiskinan ada di mana-mana. Di samping itu rakyat yang dikerahkan oleh Toqto'a   
-dalam pekerjaan itu juga merasa tidak puas dengan bayaran yang mereka terima. Karena masih terus merenungkan apa sebenarnya yang terjadi gara-gara proyek besar itu,   
-ia tidak menjawab pertanyaan Zhao Min.
+Zhang Wuji pernah mendengar uraian Yang Xiao mengenai peristiwa ini, dan setelah merenungkannya, sampai sekarang pun ia tidak bisa menjawab pertanyaan Zhao Min. Yang ia tahu hanyalah, setelah proyek itu dilaksanakan, rakyat sangat menderita, kemiskinan ada di mana-mana. Di samping itu rakyat yang dikerahkan oleh Toqto'a dalam pekerjaan itu juga merasa tidak puas dengan bayaran yang mereka terima. Karena masih terus merenungkan apa sebenarnya yang terjadi gara-gara proyek besar itu, ia tidak menjawab pertanyaan Zhao Min.
 
 Mereka saat itu berkuda dengan santai, sambil memandang ke kejauhan Zhao Min bertanya, "Tahukah kalian, siapa sebenarnya yang mula-mula berontak? Bahkan sebelum ada proyek itu?"
 
