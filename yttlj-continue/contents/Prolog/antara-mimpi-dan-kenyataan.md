@@ -1,8 +1,4 @@
----
-title: Paladin in Violent Winds | Siapa Song Furen Yang Sebenarnya?
-layout: default.vto
----
- 
+
 # Shaolin, 1355
 
 <img style="float:left;max-width:300px;padding:10px;" 

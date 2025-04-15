@@ -1,7 +1,3 @@
----
-layout: default.vto
-title: Paladin in Violent Winds
----
 
 # Paladin in Violent Winds
 
