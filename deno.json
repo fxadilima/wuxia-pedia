@@ -1,7 +1,9 @@
 {
   "imports": {
     "lume/": "https://deno.land/x/lume@v2.5.3/",
-    "lume/jsx-runtime": "https://deno.land/x/ssx@v0.1.8/jsx-runtime.ts"
+    "lume/jsx-runtime": "https://deno.land/x/ssx@v0.1.8/jsx-runtime.ts",
+    "markdown-it-footnote": "npm:markdown-it-footnote",
+    "markdown-it-collapsible": "npm:markdown-it-expandable"
   },
   "tasks": {
     "lume": "echo \"import 'lume/cli.ts'\" | deno run -A -",
