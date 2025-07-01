@@ -1,0 +1,7 @@
+# _config.yml
+
+# Other Jekyll settings...
+
+sass:
+  sass_dir: _sass
+  style: expanded # or :compressed for smaller size
