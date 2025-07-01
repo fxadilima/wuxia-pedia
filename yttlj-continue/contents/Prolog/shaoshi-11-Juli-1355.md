@@ -1,6 +1,5 @@
 # Shaoshi, 11 Juli 1355
-
-# Guo Zixing Dan Chen Youliang
+## *Guo Zixing Dan Chen Youliang*
 
 Ketika kembali ke perkemahan, mereka segera disambut oleh Zhang Zhong dan Fan Yao, dan yang terakhir 
 berkata, "Lapor, Jiaozhu! Barusan ada kabar bahwa salah seorang pemimpin Hongjin Qiyi, Guo Zixing, 
