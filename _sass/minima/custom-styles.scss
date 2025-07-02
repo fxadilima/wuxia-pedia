@@ -18,8 +18,14 @@
 
 /* Optional: Styles for smaller screens */
 @media screen and (max-width: 768px) {
+  .feature-image {
+    float: none; // Disable float on small screens
+    width: 100%; // Make it full width again
+    margin: 0 0 15px 0; // Center or remove side margins
+  }
   .feature-image-container {
-    margin-bottom: 15px;
-    // height: 200px; // Shorter on mobile
+    float: none;
+    width: 100%; // Make it full width again
+    margin: 0 0 15px 0; // Center or remove side margins
   }
 }

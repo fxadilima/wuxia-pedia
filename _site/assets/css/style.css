@@ -1102,8 +1102,15 @@ table td {
 
 /* Optional: Styles for smaller screens */
 @media screen and (max-width: 768px) {
+  .feature-image {
+    float: none;
+    width: 100%;
+    margin: 0 0 15px 0;
+  }
   .feature-image-container {
-    margin-bottom: 15px;
+    float: none;
+    width: 100%;
+    margin: 0 0 15px 0;
   }
 }
 
