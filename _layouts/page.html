@@ -1,6 +1,7 @@
 ---
 layout: base
 ---
+
 <article class="post">
 
   <header class="post-header">
@@ -8,7 +9,16 @@ layout: base
   </header>
 
   <div class="post-content">
-    {{ content }}
+{% if page.feature_image %}
+  <div class="feature-image-container">
+    <img src="{{ page.feature_image | relative_url }}" 
+      alt="{{ page.image_alt | default: page.title }}"
+      title="{{ page.image_title | default: page.title }}" 
+      class="feature-image">
+  </div>
+{% endif %}
+
+{{ content }}
   </div>
 
 </article>

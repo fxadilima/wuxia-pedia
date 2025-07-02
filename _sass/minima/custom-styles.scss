@@ -1,2 +1,25 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+
+/* assets/main.scss or _sass/_custom-styles.scss */
+
+.feature-image-container {
+  margin-bottom: 25px; /* Space below the image */
+  overflow: hidden;    /* In case the image is larger than container */
+  margin-right: 20px; // Add space to the right of the image
+  margin-bottom: 15px;
+  float:left;
+}
+
+.feature-image {
+  max-width: 200px;
+  border-radius: 8px; // Example: rounded corners
+}
+
+/* Optional: Styles for smaller screens */
+@media screen and (max-width: 768px) {
+  .feature-image-container {
+    margin-bottom: 15px;
+    // height: 200px; // Shorter on mobile
+  }
+}
