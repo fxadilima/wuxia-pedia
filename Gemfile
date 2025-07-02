@@ -1,9 +1,7 @@
-# Gemfile
+# frozen_string_literal: true
+
 source "https://rubygems.org"
+gemspec
 
-gem "jekyll"
-gem "github-pages", group: :jekyll_plugins
-
-# Add this line ONLY if the above solutions don't work,
-# and if you are certain this version is compatible with your Ruby
-# gem "bigdecimal", "~> 3.2.2"
+gem "jekyll", ENV["JEKYLL_VERSION"] if ENV["JEKYLL_VERSION"]
+gem "kramdown-parser-gfm" if ENV["JEKYLL_VERSION"] == "~> 3.9"

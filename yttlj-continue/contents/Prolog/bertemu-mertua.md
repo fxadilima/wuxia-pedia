@@ -1,3 +1,8 @@
+---
+layout: page
+author: FX. Adi Lima
+---
+
 # Bab 34
 ## Bertemu Dengan Calon Mertua
 
