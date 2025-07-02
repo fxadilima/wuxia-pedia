@@ -1086,31 +1086,34 @@ table td {
     width: calc(50% - 30px / 2);
   }
 }
-/* assets/main.scss or _sass/_custom-styles.scss */
+/* _sass/minima/_custom-styles.scss */
 .feature-image-container {
-  margin-bottom: 25px; /* Space below the image */
-  overflow: hidden; /* In case the image is larger than container */
-  margin-right: 20px;
   margin-bottom: 15px;
-  float: left;
+  overflow: hidden;
 }
 
 .feature-image {
-  max-width: 200px;
-  border-radius: 8px;
+  display: block;
+  width: 100%;
+  height: auto;
+  float: none;
+  margin: 0 0 15px 0;
 }
 
-/* Optional: Styles for smaller screens */
-@media screen and (max-width: 768px) {
-  .feature-image {
-    float: none;
-    width: 100%;
-    margin: 0 0 15px 0;
-  }
+@media screen and (min-width: 640px) { /* Adjust this breakpoint if needed */
   .feature-image-container {
-    float: none;
-    width: 100%;
-    margin: 0 0 15px 0;
+    float: left;
+  }
+  .feature-image {
+    max-width: 200px;
+    margin-right: 20px;
+    margin-bottom: 15px;
+    border-radius: 8px;
+  }
+  .feature-image-container::after { /* Or .post-content::after */
+    content: "";
+    display: table;
+    clear: both;
   }
 }
 

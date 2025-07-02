@@ -1,31 +1,47 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
 
-/* assets/main.scss or _sass/_custom-styles.scss */
+/* _sass/minima/_custom-styles.scss */
 
+// --- Base Styles (Mobile-First Defaults) ---
+// These styles apply to ALL screen sizes, unless overridden by a media query.
+// On small screens, these will be the only styles active.
 .feature-image-container {
-  margin-bottom: 25px; /* Space below the image */
-  overflow: hidden;    /* In case the image is larger than container */
-  margin-right: 20px; // Add space to the right of the image
-  margin-bottom: 15px;
-  float:left;
+  margin-bottom: 15px; // Space below the image/container
+  overflow: hidden; // Helps contain any floats if needed, or other overflow
 }
 
 .feature-image {
-  max-width: 200px;
-  border-radius: 8px; // Example: rounded corners
+  display: block; // Ensures it's a block-level element
+  width: 100%;    // Default to full width on small screens
+  height: auto;   // Maintain aspect ratio
+  float: none;    // Explicitly no float by default (for mobile)
+  margin: 0 0 15px 0; // Default margin for a block-stacked image
 }
 
-/* Optional: Styles for smaller screens */
-@media screen and (max-width: 768px) {
-  .feature-image {
-    float: none; // Disable float on small screens
-    width: 100%; // Make it full width again
-    margin: 0 0 15px 0; // Center or remove side margins
-  }
+// --- Media Query for Larger Screens ---
+// These styles will OVERRIDE the base styles when the screen size meets the condition.
+@media screen and (min-width: 640px) { /* Adjust this breakpoint if needed */
+
   .feature-image-container {
-    float: none;
-    width: 100%; // Make it full width again
-    margin: 0 0 15px 0; // Center or remove side margins
+    float: left;
+  }
+
+  .feature-image {
+    max-width: 200px;
+    margin-right: 20px; // Space to the right of the image
+    margin-bottom: 15px; // Space below the image (for wrapping text)
+    border-radius: 8px;
+  }
+
+  // Clearfix for the parent of the floated image
+  // This is typically applied to the container of both the floated element AND the content
+  // If the .feature-image is the only floated element in your post-content,
+  // then .post-content::after might be a good place for it.
+  // Or if the container is just .feature-image-container, then put it there.
+  .feature-image-container::after { /* Or .post-content::after */
+    content: "";
+    display: table;
+    clear: both;
   }
 }
