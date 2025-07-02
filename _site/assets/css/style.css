@@ -260,7 +260,7 @@ figure > img {
 }
 
 figcaption {
-  font-size: 15.75px;
+  font-size: 14px;
 }
 
 /**
@@ -657,7 +657,7 @@ table td {
 }
 
 .post-meta {
-  font-size: 15.75px;
+  font-size: 14px;
   color: rgb(100.95, 100.95, 100.95);
 }
 

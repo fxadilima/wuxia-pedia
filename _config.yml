@@ -27,6 +27,8 @@ author:
 # If you wish to use the gem-version of Minima with or without a Gemfile, use
 #   the following setting:
 theme: minima
+remote_theme: "jekyll/minima@1e8a445"
+
 #
 # **OR** if you wish to use the theme directly from the GitHub repository by
 #   bypassing a Gemfile, use the following setting instead.
