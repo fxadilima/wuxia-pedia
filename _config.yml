@@ -116,3 +116,9 @@ social_links:
 #     list. Set below key to `true` to not have the link to feed rendered as
 #     part of social-links list.
 #   hide_site_feed_link: false
+
+collections:
+  characters: # This is the singular name of your collection
+    output: true # This is crucial! It tells Jekyll to generate individual pages for each character.
+    permalink: /:collection/:path/ # Optional: Define the URL structure
+
