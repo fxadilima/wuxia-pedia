@@ -18,9 +18,9 @@ Chaghan Temur (Chinese: 察罕帖木兒, Mongolian:ᠴᠠᠭᠠᠨ ᠲᠡᠮᠦ�
 
 ## About
 
-Chaghan Temur's family originated from Beshbaliq, today Jimsar County in Xinjiang. His great-grandfather migrated to China following the Mongols' invasion. When he was young, Chaghan Temur passed the imperial exam and obtained the degree of Juren, or *Darughachi*.
+Chaghan Temur's family originated from Beshbaliq, today Jimsar County in Xinjiang. His great-grandfather migrated to China following the Mongols' invasion. When he was young, Chaghan Temur passed the imperial exam and obtained the degree of Juren.
 
-In the year of 1351, there was an outburst of bandit raids in Chaghan Temur's hometown. Counties nearby were attacked and sacked. Out of self defense, Chaghan Temur organized local militia in Shenqiu to fight off the bandits. The news of a Juren improving public security was heard in the court. In 1352, Chaghan Temur became the darughachi of Running Fu. He was able to gather as many as 10,000 people under his command at the time.
+In the year of 1351, there was an outburst of bandit raids in Chaghan Temur's hometown. Counties nearby were attacked and sacked. Out of self defense, Chaghan Temur organized local militia in Shenqiu to fight off the bandits. The news of a Juren improving public security was heard in the court. In 1352, Chaghan Temur became the *darughachi* of Running Fu. He was able to gather as many as 10,000 people under his command at the time.
 
 In 1355, he marched northward. After a series of successful battles, he managed to pacify the chaos of Hebei. The imperial court rewarded him with a civil position. In 1356, he was appointed the Bingbu Shangshu (Minister of war).
 
