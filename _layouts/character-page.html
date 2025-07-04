@@ -1,37 +1,36 @@
-<!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
+---
+layout: default
+---
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  {%- seo -%}
-  <link id="main-stylesheet" rel="stylesheet" href="https://www.w3schools.com/w3css/5/w3.css">
-  {%- feed_meta -%}
-  {%- if jekyll.environment == 'production' and site.google_analytics -%}
-    {%- include google-analytics.html -%}
-  {%- endif -%}
+<article class="w3-container w3-padding-32 character-profile">
+  <header class="w3-container">
+    <h1 class="w3-xxlarge w3-text-theme">{{ page.title }}</h1>
+  </header>
 
-  {%- include custom-head.html -%}
-  
-</head>
-
-  <body>
-
-    <main class="w3-main w3-container" aria-label="Content">
-      <div class="w3-content">
-{% if page.feature_image %}
-  <a href="{{ page.feature_image | relative_url }}" target="_blank">
-    <img src="{{ page.feature_image | relative_url }}" 
-      alt="{{ page.image_alt | default: page.title }}"
-      title="{{ page.image_title | default: page.title }}" 
-      style="float:left;margin-right:25px;margin-bottom:15px;max-width:300px;">
-  </a>
-{% endif %}
+  <div class="w3-row-padding">
+    {% if page.feature_image %}
+      <div class="w3-col l3 m4 s12 feature-image-wrapper">
+        <a href="{{ page.feature_image | relative_url }}" target="_blank">
+          <img src="{{ page.feature_image | relative_url }}"
+               alt="{{ page.image_alt | default: page.title }}"
+               title="{{ page.image_title | default: page.title }}"
+               class="w3-image w3-round feature-image-thumb">
+        </a>
+      </div>
+      <div class="w3-rest">
         {{ content }}
       </div>
-    </main>
+    {% else %}
+      {{ content }}
+    {% endif %}
+  </div>
 
-  </body>
+  <div class="character-meta w3-panel w3-light-grey w3-border w3-round-large">
+    <h3>Character Details</h3>
+    <p><strong>Novel:</strong> {{ page.novel }}</p>
+    <p><strong>Gender:</strong> {{ page.gender }}</p>
+    <p><strong>Weapons:</strong> {{ page.weapons }}</p>
+    <p><strong>Skills:</strong> {{ page.skills }}</p>
+  </div>
 
-</html>
+</article>

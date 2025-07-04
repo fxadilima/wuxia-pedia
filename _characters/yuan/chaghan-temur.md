@@ -1,5 +1,5 @@
 ---
-layout: character-page # We'll create this layout next
+layout: default
 title: Chaghan Temur
 novel: Heavenly Sword and The Dragon Slaying Saber 
 gender: Male
@@ -16,7 +16,7 @@ image_title: "Jendral Chaghan Temur"
 Chaghan Temur (Chinese: 察罕帖木兒, Mongolian:ᠴᠠᠭᠠᠨ ᠲᠡᠮᠦᠷ), Courtesy name Tingrui (廷瑞), also known by his sinicized name Li Chaghan (Chinese: 李察罕; pinyin: Lǐ Cháhǎn), was a Yuan dynasty officer and military leader of Naiman Mongol tribe.
 
 
-## Life
+## About
 
 Chaghan Temur's family originated from Beshbaliq, today Jimsar County in Xinjiang. His great-grandfather migrated to China following the Mongols' invasion. When he was young, Chaghan Temur passed the imperial exam and obtained the degree of Juren, or *Darughachi*.
 

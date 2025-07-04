@@ -1,7 +1,60 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
 
-/* _sass/minima/_custom-styles.scss */
+// --- Navigation Styles ---
+.site-nav {
+  .nav-items { // This targets the <ul> element inside .site-nav
+    list-style: none; // Ensures no bullet points are shown
+    margin: 0;        // Removes default margin
+    padding: 0;       // Removes default padding
+    display: flex;    // Use Flexbox for horizontal layout (modern and flexible)
+    flex-wrap: wrap;  // Allow items to wrap to the next line on smaller screens
+    justify-content: flex-start; // Align items to the start (left)
+
+    // On mobile, Minima's default styles will hide the ul initially
+    // and show it when the nav-trigger checkbox is checked.
+    // If you need custom mobile behavior, you'd add media queries here.
+  }
+
+  .nav-item-wrapper { // This targets the <li> elements
+    // For Flexbox, you don't typically need display: inline-block or float here.
+    // Flex items handle their own spacing.
+    margin-right: 15px; // Add space between navigation items
+    &:last-child {
+      margin-right: 0; // No margin after the last item
+    }
+  }
+
+  .nav-item { // This targets the <a> tags within the nav
+    display: block; // Makes the entire link area clickable
+    padding: 10px 0; // Add padding around the text
+    text-decoration: none; // Remove underline
+    color: grey; // Default link color, override as needed
+    white-space: nowrap; // Prevent links from breaking onto multiple lines
+    
+    // Minima often sets specific styles for these. Override as needed.
+    // For example, to match Minima's default font/color for navigation:
+    // font-size: $font-size-1; // Example if you have custom font variables
+    // line-height: $base-line-height;
+    // font-weight: 600;
+    // color: $brand-color; // Minima's accent color
+
+    &:hover {
+      text-decoration: underline; // Add underline on hover
+      //color: darken($brand-color, 15%);
+    }
+  }
+
+  // --- Mobile Navigation Specifics (if needed for custom overrides) ---
+  // Minima's default CSS handles this for the checkbox hack.
+  // If you see issues with the mobile menu icon or the menu not expanding,
+  // this might be where you'd add overrides.
+  // For example, if the menu-icon isn't showing, you might need:
+  // .menu-icon {
+  //   display: block; // Ensure it's not hidden
+  // }
+}
+
 
 // --- Base Styles (Mobile-First Defaults) ---
 // These styles apply to ALL screen sizes, unless overridden by a media query.
@@ -45,3 +98,54 @@
     clear: both;
   }
 }
+
+/////////////////////////////////////
+
+/* _sass/minima/_custom-styles.scss */
+
+// Ensure this is loaded after W3.CSS and Minima's default styles
+
+// Styles for your character profile main container (if needed)
+.character-profile {
+  // Add specific styles here if the W3.CSS classes aren't enough
+  border-radius: 3px;
+}
+
+// Styles for the image wrapper (if you used w3-col)
+.feature-image-wrapper {
+  // If you are using w3-col, the width is handled by W3.CSS
+  // You might want to add vertical spacing below the wrapper
+  margin-bottom: 25px; // Space below the image container
+}
+
+// Styles for the image itself (re-implementing your float logic)
+.feature-image-thumb {
+  // W3.CSS provides .w3-image for responsiveness (max-width: 100%, height: auto)
+  // And .w3-round for rounded corners if you like.
+
+  // Your float styles (adapting from previous discussions)
+  @media screen and (min-width: 769px) { // Desktop/Tablet
+    float: left;
+    margin-right: 25px; // Space to the right of the image
+    // max-width is now handled by the w3-col class (e.g., l3 is 25%)
+    // But if you want a fixed pixel size, you can override: max-width: 300px;
+    // ensure it's less than the col's width.
+  }
+
+  @media screen and (max-width: 768px) { // Mobile
+    float: none; // Disable float
+    display: block;
+    margin: 0 auto 15px auto; // Center and add bottom margin
+    // max-width is handled by w3-image (100% of column)
+  }
+}
+
+// Clearfix for the container of the floated image, if needed
+// Apply this to the parent that contains both the floated image and the text content
+// In the example above, this would be on `article.character-profile` if the image and content are siblings within it.
+.character-profile::after { // Or .w3-row-padding::after
+  content: "";
+  display: table;
+  clear: both;
+}
+
