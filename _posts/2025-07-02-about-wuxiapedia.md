@@ -1,11 +1,12 @@
 ---
 layout: post
-title: About Wuxiapedia 
+title: Wuxiapedia dan Sejarah
 ---
 
-Di sini saya berusaha memberikan informasi selengkap mungkin mengenai cerita-cerita silat yang saya ketahui, terutama sekali yang berkaitan dengan sejarah, lengkap dengan semua istilah yang seringkali dipakai oleh dua penulis `cersil` legendaris Indonesia, Kho Ping Hoo dan Gan KL. Mereka menulis menggunakan istilah-istilah Hokkien, yang memang terasa lebih relevan dalam konteks Indonesia, namun demikian kita akan mengalami kesulitan menemukan kaitan antara istilah-istilah ini dengan bahasa mandarin modern yang ditulis menjadi huruf-huruf Latin menggunakan *pinyin*, karenanya saya lebih menyukai penulisan pinyin.
+Wuxiapedia sendiri bukan selalu terkait dengan informasi sejarah, meskipun berbagai cerita yang berkaitan dengan sejarah memang ada di sini. Tepatnya, `Wuxiapedia` sendiiri berusaha memberikan informasi mengenai cerita silat.
 
-Salah satu informasi penting adalah mengenai *daftar karakter* dan juga *tokoh sejarah nyata* yang ditampilkan dalam setiap cerita silat. Cerita-cerita ini seringkali menampilkannya dengan cara yang sangat berlainan dengan pribadi sebenarnya. Barangkali untuk tokoh sejarah yang tidak terlalu dikenal, orang lalu menjadi terpaku pada karakter di dalam cerita tertentu.
+Cerita silat memang seringkali dicampur dengan memasukkan tokoh-tokoh sejarah dan peristiwa-peristiwa besar di dalam sejarah, tetapi juga seringkali mengalami *twist* sedemikian rupa, sehingga kia tidak bisa begitu saja memakainya sebagai patokan kebenaran di dalam menceritakan tokoh-tokoh sejarah nyata.
 
-Hal semacam ini terjadi bagi tokoh sejarah [Chaghan Temur](/wuxia-pedia/characters/yuan/chaghan-temur/ "Baca selengkapnya entang Chaghan Temur dalam sejarah..."), yang diceritakan oleh Jin Yong sebagai ayah Zhao Min. Dalam cerita Yitian Tulong Ji, rangkaian peristiwa sejarah hanya diceritakan secara berat sebelah tanpa menggli lebih dalam tentang orang aslinya.
+Jika mau mengambil contoh nyata, katakan saja, Yang Guo (dalam dialek Hokkien, Yo Ko). Jin Yong menceritakan bahwa Yang Guo membunuh Mongke Khan, di bagian akhir Kisah Pendekar Rajawali (Shen Diao Xia Lu, atau Sin Tiaw Hiap Lu). Yang benar, Mongke Khan memang meninggal di tengah peperangan, tetapi bukan di Xiangyang. Dan, tentu saja, bukan karena dibunuh oleh Yang Guo, karena karakter Yang Guo itu sendri adalah karakter hasil imajinasi Jin Yong.
+
 
